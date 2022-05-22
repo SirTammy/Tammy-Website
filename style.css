@@ -40,7 +40,7 @@ body {
 }
 
 #showcase {
-    background-image:url('../images/bgimage.jpg');
+    background-image:url('bgimage.jpg');
     background-position: center;
     background-size: 100%;
     min-height: 300px;
